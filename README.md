@@ -71,14 +71,3 @@ Intel Media SDK现在可以被我们的videoio模块用来进行硬件加速的�
 ## 更新
 - [破解验证码](my06-验证码识别/solving_captchas_code_examples/README.md)
     
-## 捐赠打赏  
-- OpenCV问答群1,QQ群号:187436093
-- 微信  
-    - <img src="data/wechat_donate.jpg" width = "200" height = "200" alt="wechat_donate"  />
-
-
-- 支付宝
-    - <img src="data/alipay_donate.jpg" width = "200" height = "200" alt="alipay_donate"  />
- 
-- 比特币
-- 以太坊
